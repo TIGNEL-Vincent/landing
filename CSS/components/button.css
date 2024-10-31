@@ -1,0 +1,23 @@
+.btn-grey {
+	background-color: grey;
+	margin: auto;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+	font-family: 'roboto', sans-serif ;
+	
+
+}
+
+.btn-acheter {
+	background-color: rgba(230, 230, 230, 1.0);
+	padding: 10px 5px;
+	border-radius: 3px;
+	color: rgb(50, 50, 50);
+	font-weight: bold;
+	font-size: 12px;
+	text-decoration: none;
+	font-family: 'roboto', sans-serif ;
+}
